@@ -75,6 +75,9 @@ figure{
 }
 
 .categories{
-    margin:  ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
 
 }
