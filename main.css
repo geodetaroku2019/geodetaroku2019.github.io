@@ -51,3 +51,25 @@ h1.logo{
 .menu a:hover{
 color:#8a2b42;
 }
+
+.subject{
+    display: inline-block;
+    width: 400px;
+}
+
+.img{
+    max-width: 100%;
+    max-height: 100$
+}
+
+.subject a{
+    opacity: 0.9;
+}
+.subject a:hover{
+    opacity:1;
+}
+
+figure{
+    margin: 1em;
+    padding: 0px;
+}
