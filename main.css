@@ -2,8 +2,7 @@ body{
     background-color: black; 
     color: #efefef;
     margin: 0;
-    font-size: 1
-        em;
+    font-size: 1em;
     font-family: 'Open Sans', sans-serif;
     
 }
@@ -78,6 +77,10 @@ figure{
     display: flex;
     align-items: center;
     justify-content: center;
-    
-
 }
+    #mapa{
+    display: flex;
+    height: 70rem;
+    color: grey;
+    
+    }
