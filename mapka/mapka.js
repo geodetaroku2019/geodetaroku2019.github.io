@@ -7,7 +7,7 @@ $(document).ready(function(){
     
     var danepanstwo =
     L.tileLayer.wms("http://localhost:8080/geoserver/projekt_KOM/wms", {
-        layers:'projekt_KOM:panstwo',
+        layers:'projekt_KOM:panstwo_lad',
         format:'image/png',
         transparent: 'true',
         version: '1.1.1'
